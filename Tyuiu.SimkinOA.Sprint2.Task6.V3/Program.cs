@@ -1,7 +1,7 @@
 ﻿using Tyuiu.SimkinOA.Sprint2.Task6.V3.Lib;
 namespace Tyuiu.SimkinOA.Sprint2.Task6.V3
 {
-    {
+    
     internal class Program
     {
         static void Main(string[] args)
